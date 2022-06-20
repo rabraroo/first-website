@@ -1,0 +1,20 @@
+table{height: auto;
+	width: auto;
+	background-color: lightcoral;
+	text-align: center;
+	border: 30px purple;
+	padding: 15px;
+	margin: 10px auto;}
+
+
+body{background-image: url(https://gardeningsun.com/wp-content/uploads/2020/04/anemone-4977603_1920.jpg);
+	font-family: sans-serif;
+	text-align: center;}
+
+hr{height: 2px;
+		background-color: purple;
+		border-color: purple;}
+
+p {background-color: lightblue;
+	margin-left: 25%;
+	margin-right: 25%;}
